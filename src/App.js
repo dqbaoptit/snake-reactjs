@@ -4,7 +4,7 @@ import './App.css';
 import Food from'./Food';
 import Snake from './Snake';
 import Trap from './Trap';
-
+import Piano from './media/piano.mp3';
 
 const getRandomCoordinates = () => {
   let min = 1;
@@ -338,7 +338,14 @@ class App extends Component {
       </FormGroup>
     )
   }
-
+  MusicPlayNormal = () =>{
+    if(this.state.play)
+    return(
+      <audio autoPlay>
+        <source src={Piano} type="audio/mp3" />
+      </audio>
+    )
+  }
 
 
   render(){
@@ -372,6 +379,7 @@ class App extends Component {
             {this.GotoGame()}
           </div>
         </Grid>
+        {this.MusicPlayNormal()}
       </Container>
 
     );
