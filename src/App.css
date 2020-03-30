@@ -1,7 +1,6 @@
 .container{
-  padding-top: 5%;
   width:1000px;
-  height: 700px;
+  height: 800px;
 }
 .containerOver{
  display: flex;
