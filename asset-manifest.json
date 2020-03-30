@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dqbaoptit/snake-reactjs/static/css/main.cfb84715.chunk.css",
+    "main.js": "/dqbaoptit/snake-reactjs/static/js/main.b0bbef72.chunk.js",
+    "main.js.map": "/dqbaoptit/snake-reactjs/static/js/main.b0bbef72.chunk.js.map",
+    "runtime-main.js": "/dqbaoptit/snake-reactjs/static/js/runtime-main.c4539763.js",
+    "runtime-main.js.map": "/dqbaoptit/snake-reactjs/static/js/runtime-main.c4539763.js.map",
+    "static/js/2.8a45d241.chunk.js": "/dqbaoptit/snake-reactjs/static/js/2.8a45d241.chunk.js",
+    "static/js/2.8a45d241.chunk.js.map": "/dqbaoptit/snake-reactjs/static/js/2.8a45d241.chunk.js.map",
+    "index.html": "/dqbaoptit/snake-reactjs/index.html",
+    "precache-manifest.f264e97e87990581afd03c242f244ecb.js": "/dqbaoptit/snake-reactjs/precache-manifest.f264e97e87990581afd03c242f244ecb.js",
+    "service-worker.js": "/dqbaoptit/snake-reactjs/service-worker.js",
+    "static/css/main.cfb84715.chunk.css.map": "/dqbaoptit/snake-reactjs/static/css/main.cfb84715.chunk.css.map",
+    "static/js/2.8a45d241.chunk.js.LICENSE.txt": "/dqbaoptit/snake-reactjs/static/js/2.8a45d241.chunk.js.LICENSE.txt",
+    "static/media/piano.mp3": "/dqbaoptit/snake-reactjs/static/media/piano.bcf8c0fa.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4539763.js",
+    "static/js/2.8a45d241.chunk.js",
+    "static/css/main.cfb84715.chunk.css",
+    "static/js/main.b0bbef72.chunk.js"
+  ]
+}
